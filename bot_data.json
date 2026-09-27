@@ -1,0 +1,14 @@
+{
+    "queue": [],
+    "active_testers": [],
+    "paused_testers": [],
+    "active_ht_tickets": [],
+    "is_open": false,
+    "last_test_time": "Не проводился",
+    "cooldowns": {},
+    "user_tiers": {},
+    "user_history": {},
+    "tester_stats": {},
+    "waitlist_msg_id": null,
+    "tester_panel_msg_id": null
+}
